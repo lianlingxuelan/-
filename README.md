@@ -1,5 +1,5 @@
 # -
-走过的坑
+
 一. computed、methods和watch
     1.区别：
         computed: computed是基于他的依赖缓存，当他相关依赖的值发生改变时，才会重新取值。
